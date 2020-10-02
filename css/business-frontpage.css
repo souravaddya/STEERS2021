@@ -16,3 +16,15 @@ body {
   border-radius: 50%;
   box-shadow: 0 0 3px 1px rgb(0 0 0 / 42%);
 }
+
+.sponsorlogo {
+  height: 3em;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.sponsorrow {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
