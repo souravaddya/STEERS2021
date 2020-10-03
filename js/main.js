@@ -113,11 +113,3 @@ particlesJS("particles-js", {
     requestAnimationFrame(update);
   };
   requestAnimationFrame(update);;
-  a:link {
-
-
-  text-decoration: none;
-
-
-}
-  
