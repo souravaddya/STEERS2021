@@ -29,6 +29,17 @@ body {
   margin-bottom: 1em;
 }
 
+#navbar {
+  background: #1c69ab!important;
+}
+
+#navlogo {
+  width: 110px;
+}
+
+.navbar-brand {
+  padding: 0;
+}
 
 /* PARTICLE JS */
 .bigheader {
