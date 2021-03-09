@@ -10,6 +10,12 @@ body {
 .circular {
   
 }
+
+ol.accepted_papers > li {
+  padding: 1em;
+  border-bottom: 1px solid #00000026;
+}
+
 .circular img {
   display: block;
   margin: 0.6em auto;
