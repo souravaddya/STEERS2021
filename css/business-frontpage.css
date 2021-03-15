@@ -148,3 +148,13 @@ a.anchor {
   color: white;
 }
 /* ============================================ */
+
+
+/* keynote  */
+.keynote  p {
+  text-align: justify;
+}
+
+.keynote  h4 {
+  font-weight: 400;
+}
