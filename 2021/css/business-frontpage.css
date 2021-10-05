@@ -1,0 +1,164 @@
+/*!
+* Start Bootstrap - Business Frontpage (https://startbootstrap.com/templates/business-frontpage)
+* Copyright 2013-2020 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+*/
+body {
+  padding-top: 56px;
+}
+
+.circular {
+  
+}
+
+ol.accepted_papers > li {
+  padding: 1em;
+  border-bottom: 1px solid #00000026;
+}
+
+.circular img {
+  display: block;
+  margin: 0.6em auto;
+  border-radius: 50%;
+  box-shadow: 0 0 3px 1px rgb(0 0 0 / 42%);
+}
+
+.sponsorlogo {
+  height: 3em;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.sponsorrow {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#navbar {
+  background: #1c69ab!important;
+}
+
+#navlogo {
+  width: 110px;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+/* PARTICLE JS */
+.bigheader {
+  background: #00000038;
+}
+
+.headertxt {
+  text-shadow: 0px 0px 3px black;
+}
+
+canvas{ display: block; vertical-align: bottom; }
+/* ---- particles.js container ---- */ 
+#particles-js{
+  position:absolute;
+  width: 100%;
+  height: 30em;
+  background-color: #1c76ab;
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  top: 0;
+  left: 0;
+  z-index: -1000;
+} 
+
+
+#extendeddeadline {
+  font-weight: bold;
+  color: #d00000;
+}
+
+.main-alert {
+  font-size: 1.1em;
+  box-shadow: 0px 0px 7px #abc9f3;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 990px) {
+  #particles-js{
+  height: 36em;
+  }
+}
+
+@media only screen and (max-width: 765px) {
+  #particles-js{
+  height: 38em;
+  }
+}
+
+
+@media only screen and (max-width: 507px) {
+  #particles-js{
+  height: 44em;
+  }
+}
+
+
+@media only screen and (max-width: 365px) {
+  #particles-js{
+  height: 48em;
+  }
+}
+
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -80px;
+  visibility: hidden;
+}
+
+
+/* -------------------- social icon css ---------- */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+/* ============================================ */
+
+
+/* keynote  */
+.keynote  p {
+  text-align: justify;
+}
+
+.keynote  h4 {
+  font-weight: 400;
+}
+
+#keynotehr {
+  border: 1px solid #a5a5a5;
+}
